@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Ignatius Nwankwo
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "A Journey of A Thousand Miles Begins with a single step"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Senior, Screenwriting & Animation"
+  - "🔬 Research: Data Driven Sleep Monitoring System in Drivers"
+  - "📍 Based in Baltimore, MD"
+  - "🎨 Passionate about telling stories through digital media"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: www.linkedin.com/in/ignatius-nwankwo-59204a245
 image: /assets/images/me.jpg
 ---
