@@ -27,7 +27,7 @@ about:
       description: I love playing retro video games using emulators.
 
   gallery:
-    - image: /assets/images/me-art.png
+    - image: /assets/images/me-art.jpeg
       caption: a digital piece I made
     - image: /assets/images/me-basketball.png
       caption: Hooping and dropping people off at the park 🏀
