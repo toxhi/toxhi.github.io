@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🎨 Passionate about telling stories through digital media"
 
-linkedin:https://linkedin.com/in/ignatius-nwankwo-59204a245
+linkedin: https://linkedin.com/in/ignatius-nwankwo-59204a245
 image: assets/images/me.jpg
 ---
