@@ -16,7 +16,7 @@ about:
     When I’m not working on research, I enjoy reading manga and watching anime.
 
   hobbies:
-    - icon🎨
+  - icon🎨
       title: Drawing
       description: I’ve been drawing since elementary school and love digital art.
     - icon📕
