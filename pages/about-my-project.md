@@ -16,8 +16,8 @@ approach: |
     -  deep learning modeling
     
   Video feeds and images from cameras will be used to monitor the driver's eye movements providing real-time data on their state. Deep learning predictive models will be developed to:
-    -  detect signs of drowsiness and
-    -  trigger an alert when 
+    -  detect signs of drowsiness
+    -  trigger an alert when necessary
     
   The system will also incorporate continuous feedback to refine its accuracy and reliability over time.
 
