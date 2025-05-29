@@ -13,11 +13,11 @@ approach: |
   In this project, a range of research methods will be employed, including:
     -  image collection
     -  image and video analysis
-    -  deep learning modeling. 
-  Video feeds and images from cameras will be used to monitor the driver's eye movements providing real-time data on their state. Deep learning predictive models will be developed to:
+    -  deep learning modeling
+Video feeds and images from cameras will be used to monitor the driver's eye movements providing real-time data on their state. Deep learning predictive models will be developed to:
     -  detect signs of drowsiness and
     -  trigger an alert when necessary
-  The system will also incorporate continuous feedback to refine its accuracy and reliability over time.
+The system will also incorporate continuous feedback to refine its accuracy and reliability over time.
 
 outcome: |
   By the end of the program, the project will result in:
