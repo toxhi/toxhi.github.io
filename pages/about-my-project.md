@@ -3,34 +3,35 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Computer Vision and Machine Learning
+project_title: "Non-Contact AI-Drowsiness Detection System for Safe Driving"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  The proposed project aims to enhance highway safety by addressing the critical issue of driver drowsiness, a major factor contributing to accidents, severe crashes, and fatalities.
 
 approach: |
-  The project follows a four-phase pipeline:
-
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  In this project, a range of research methods will be employed, including:
+    -  image collection
+    -  image and video analysis
+    -  deep learning modeling. 
+    Video feeds and images from cameras will be used to monitor the driver'&#39;s eye movements providing real-time data on their state. Deep learning predictive models will be developed to:
+    -  detect signs of drowsiness and
+    -  trigger an alert when necessary
+    The system will also incorporate continuous feedback to refine its accuracy and reliability over time.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result in a:
+    -  a predictive model using machine learning algorithms to identify signs of drowsiness in real-time by analyzing images and video data
+    -  a real-time monitoring system using cameras to capture video feeds of the driver.
+    -  The student will develop an alert system that can notify the driver through audio cues when signs of drowsiness are detected.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Pelumi Abiodun
+  linkedin: https://linkedin.com/in/jamal-carter](https://www.linkedin.com/in/abiodunpo/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Oludare Owolabi
+  linkedin: https://linkedin.com/in/dr-elijah-freeman](https://www.linkedin.com/in/oludare-owolabi-pe-mchit-reg-engr-coren-6766a299/
 ---
